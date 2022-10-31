@@ -1,0 +1,7 @@
+{
+  "extends": "./configs/tsconfig.base.json",
+  "files": ["./src/a.ts", "./src/b.ts"],
+  "compilerOptions": {
+    "outDir": "./dist"
+  }
+}

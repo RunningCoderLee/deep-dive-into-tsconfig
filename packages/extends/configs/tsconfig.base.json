@@ -1,0 +1,6 @@
+{
+  "files": ["../src/c.ts"],
+  "compilerOptions": {
+    "outDir": "./dist"
+  }
+}
