@@ -1,0 +1,7 @@
+{
+  "files": ["./src/a.ts"],
+  "include": ["./**/c.ts"],
+  "compilerOptions": {
+    "outDir": "./dist"
+  }
+}
