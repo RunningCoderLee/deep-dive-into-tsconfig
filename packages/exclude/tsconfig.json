@@ -1,0 +1,8 @@
+{
+  "files": ["./src/utils/print.ts"],
+  "include": ["./src/*.ts"],
+  "exclude": ["./src/c.ts"],
+  "compilerOptions": {
+    "outDir": "./dist"
+  }
+}
